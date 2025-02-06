@@ -56,3 +56,4 @@
 <p>
   Once the server is running, it will wait for a client to connect and send two integers to compute their sum.
 </p>
+<h2>Developed by Sifiso Viniwa </h2>
